@@ -1,4 +1,4 @@
-# Repo contains notes and implementations I write while learning about algorithm design & analysis  
+### Repo contains notes and implementations I write while learning about algorithm design & analysis  
 
 Practice: AtCoder | Codeforce  
 Resources clrs & https://en.algorithmica.org/hpc/  
